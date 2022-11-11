@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GhostGree if you can't tell from my username
-- 👀 I’m interested in idk what is this website about
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me you don't
+Hey, my name is Max, I am currently a student at Internation Academy. I have partially mastered Java and Python. And am proffieciant in HTML/Website making. Ways you can contact me are by email at "maximdalat@gmail.com". 
 
 <!---
 GhostGree/GhostGree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
